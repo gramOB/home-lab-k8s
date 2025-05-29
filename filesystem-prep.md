@@ -10,3 +10,4 @@ lsblk -f | grep -v loop
 
 ***don't touch sda***
 
+git remote add origin git@github.com:blahblah/kkproject.git
